@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Navtesh!]
+### Hello World 👋 It's Navtesh
 
 <br/>
 
