@@ -25,8 +25,8 @@ Hi,I'm Navtesh Batra🙌, a ML & AI learner, Cloud and Cyber Security Enthusiast
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I've been an Information Security Intern at Esec Forte Technologies.
-- 🌱 I’m currently learning ML & AI.
+- 🔭 I've been an Information Security Intern at Esec Forte Technologies and SDET Intern at Blewminds Consulting.
+- 🌱 I’m currently learning Project Management, ML & AI.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the above Social-Media Platforms.
